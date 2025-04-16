@@ -16,11 +16,7 @@ my-app/ ├─ public/ ├─ src/ │ ├─ components/ │ ├─ pages/ │ 
 
 
 ## 🎥 Video Walkthrough of the Project  
-_A short walkthrough video showcasing the UI and key features will be added soon._
-
-## 💻 Video Walkthrough of the Codebase  
-_A brief explanation video (1–5 mins) walking through the project structure and logic will be uploaded here._
-
+![Image](https://github.com/user-attachments/assets/0b3bf3aa-6336-4bde-9dd9-38b2ee178074)
 ## ✨ Features
 - 📰 Latest blog articles by category
 - 🌟 Highlighted top posts and trending stories
