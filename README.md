@@ -8,8 +8,6 @@
 
 ## 🌐 Deployed App  
 🔗 Frontend: [https://bishtgaurav0.github.io/blogfinal/](https://bishtgaurav0.github.io/blogfinal/)  
-🛠️ Backend: —  
-🗄️ Database: —  
 
 ## 📁 Directory Structure
 
